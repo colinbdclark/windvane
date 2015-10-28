@@ -1,0 +1,24 @@
+{
+    "name": "windvane",
+    "description": "A library for building motion-influenced sound installations",
+    "version": "1.0.0",
+    "author": "Colin Clark",
+    "license": "MIT",
+    "repository": "git://github.com/colinbdclark/windvane.git",
+    "bugs": "http://github.com/colinbdclark/windvane/issues",
+    "homepage": "http://github.com/colinbdclark/windvane",
+    "readmeFilename": "README.md",
+    "devDependencies": {
+        "grunt": "0.4.5",
+        "grunt-contrib-jshint": "0.11.3",
+        "grunt-contrib-watch": "0.6.1"
+    },
+    "dependencies": {
+        "infusion": "2.0.0-dev.20151024T031903Z.3da18aa",
+        "dedupe-infusion": "1.0.0",
+        "infusion-electron": "colinbdclark/infusion-electron#ipc-relay"
+    },
+    "scripts": {
+        "dedupe-infusion": "node -e \"require('dedupe-infusion')();\""
+    }
+}

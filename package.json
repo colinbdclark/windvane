@@ -16,7 +16,7 @@
     "dependencies": {
         "infusion": "2.0.0-dev.20151024T031903Z.3da18aa",
         "dedupe-infusion": "1.0.0",
-        "infusion-electron": "colinbdclark/infusion-electron#ipc-relay"
+        "infusion-electron": "0.2.0"
     },
     "scripts": {
         "dedupe-infusion": "node -e \"require('dedupe-infusion')();\""

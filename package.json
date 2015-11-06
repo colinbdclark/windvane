@@ -1,7 +1,7 @@
 {
     "name": "windvane",
     "description": "A library for building motion-influenced sound installations",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": "Colin Clark",
     "license": "MIT",
     "repository": "git://github.com/colinbdclark/windvane.git",

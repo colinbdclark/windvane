@@ -37,7 +37,7 @@
         channel: "frontMotion",
 
         source: {
-            name: "VF0520 Live! Cam Sync (041e:406c)"
+            name: "Microsoft® LifeCam Studio(TM) #3 (045e:0772)"
         }
     });
 
@@ -47,7 +47,7 @@
         channel: "backMotion",
 
         source: {
-            name: "VF0520 Live! Cam Sync #2 (041e:406c)"
+            name: "Microsoft® LifeCam Studio(TM) #4 (045e:0772)"
         }
     });
 
